@@ -1,4 +1,6 @@
 # odev
 odev
-Not Defteri üzerinden ilk değişiklik!
+Not Defteri ï¿½zerinden ilk deï¿½iï¿½iklik!
+Visual Code Ã¼zerinden ikinci deÄŸiÅŸiklik!
+
 
