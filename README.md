@@ -1,6 +1,6 @@
 # odev
 odev
-Not Defteri �zerinden ilk de�i�iklik!
+Not Defteri üzerinden ilk değişiklik!
 Visual Code üzerinden ikinci değişiklik!
 
 
